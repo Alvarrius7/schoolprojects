@@ -1,0 +1,89 @@
+/*A PARTIR DE AQUI EMPIEZAN LOS ESTILOS DE LOS TITULOS*/
+
+.tituloprincipal {
+    color: rgba(204, 100, 16, 0.945);
+    text-align: center;
+    font-family: arial;
+    font-size: 41px;
+}
+
+/*LA LETRA P SIGNIFICA PRINCIPAL*/
+
+.tituloPintel {
+    color: rgb(8, 116, 240);
+}
+
+.tituloPamd {
+    color: rgb(184, 25, 25);
+}
+
+.tituloPnvidia {
+    color: rgb(10, 151, 10);
+}
+
+h4 a:link {
+    color: rgb(56, 135, 240);
+}
+
+h4 a:visited {
+    color: rgb(90, 196, 20);
+}
+
+/*A PARTIR DE AQUI EMPIEZA EL ESTILO DEL BODY*/
+
+body {
+    background-color: rgb(19, 19, 19);
+    font-family: helvetica;
+    color: rgb(255, 255, 255);
+}
+
+/*A PARTIR DE AQUI EMPIEZAN LOS ESTILOS DE LOS PARRAFOS*/
+
+#parrafoinicio {
+    background-color: #333436;
+    padding: 11px;
+    padding-left: 30px;
+    border-radius: 45px;
+    margin-top: 60px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+    margin-right: 600px;
+    font-size: 17.2px;
+}
+
+#parrafoinicio2 {
+    background-color: #333436;
+    padding: 11px;
+    padding-left: 30px;
+    border-radius: 45px;
+    margin-top: 60px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+    margin-right: 750px;
+    font-size: 17.2px;
+}
+
+.parrafolista {
+    background-color: #333436;
+    padding: 10px;
+    padding-left: 30px;
+    border-radius: 45px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+    margin-right: 1250px;
+    font-size: 17.2px;
+}
+
+/*A PARTIR DE AQUI EMPIEZA EL ESTILO DE LA TABLA*/
+
+table, th, td {
+    border: 2px solid white;
+    border-collapse: collapse;
+    background-color: #333436;
+    padding: 8px;
+    border-radius: 1px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    font-size: 17.2px;
+}
